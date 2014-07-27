@@ -1,0 +1,15 @@
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\Background.png
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\io.cordova.talktome.dll
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\io.cordova.talktome.pdb
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\Bin\Debug\io.cordova.talktome.xap
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\App.g.cs
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.dialogs\NotificationBox.g.cs
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\io.cordova.talktome.g.resources
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\io.cordova.talktome.dll
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\io.cordova.talktome.pdb
+C:\Work\Projects\Git\TalkToMe-Actual\platforms\wp8\obj\Debug\XapCacheFile.xml

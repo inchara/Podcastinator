@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Notification\"><param name=\"wp-package\" value=\"Notification\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Vibration\"><param name=\"wp-package\" value=\"Vibration\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "{14584694-4631-465D-A7A1-FEF5A009C3F0}"
+        },
+        "org.apache.cordova.vibration": {
+            "PACKAGE_NAME": "{14584694-4631-465D-A7A1-FEF5A009C3F0}"
+        },
+        "org.apache.cordova.speech.speechsynthesis": {
+            "PACKAGE_NAME": "{14584694-4631-465D-A7A1-FEF5A009C3F0}"
+        }
+    },
+    "dependent_plugins": {}
+}
