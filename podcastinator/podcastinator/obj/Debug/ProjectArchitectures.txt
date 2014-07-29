@@ -1,1 +1,1 @@
-C:\github\Podcastinator\podcastinator\podcastinator\podcastinator.csproj;neutral
+C:\Work\Projects\Git\Podcastinator\podcastinator\podcastinator\podcastinator.csproj;neutral
