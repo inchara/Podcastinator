@@ -59,6 +59,9 @@
     </VisualStudio>
   </ProjectExtensions>
   <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>.\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Owin.Host.SystemWeb">
       <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.2.1.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
     </Reference>
@@ -185,7 +188,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\TodoItemController.cs" />
+    <Compile Include="Controllers\PodCastController.cs" />
+    <Compile Include="Controllers\UrlProcessor.cs" />
     <Compile Include="DataObjects\PodCastItem.cs" />
     <Compile Include="Models\podcastinatorContext.cs" />
     <Compile Include="ScheduledJobs\SampleJob.cs" />

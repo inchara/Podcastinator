@@ -4,8 +4,23 @@ namespace podcastinatorService.DataObjects
 {
     public class PodCastItem : EntityData
     {
-        public string Text { get; set; }//Can be a url also in the case of media
+        public string Url { get; set; }
 
-        public bool Complete { get; set; }
+        public EntityType Type { get; set; }
+
+        public string Content { get; set; }
+
+        public bool IsPlayed { get; set; }
+
+        public string Icon { get; set; }
+
+        public string Title { get; set; }
+    }
+
+    public enum EntityType
+    {
+        Audio,
+        Video,
+        Text
     }
 }

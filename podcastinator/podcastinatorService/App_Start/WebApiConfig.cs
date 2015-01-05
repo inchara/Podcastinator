@@ -31,8 +31,8 @@ namespace podcastinatorService
         {
             List<PodCastItem> podcastItems = new List<PodCastItem>
             {
-                new PodCastItem { Id = "1", Text = "First item", Complete = false },
-                new PodCastItem { Id = "2", Text = "Second item", Complete = false },
+                new PodCastItem { Id = "1", Url = "First item", Type = EntityType.Audio },
+                new PodCastItem { Id = "2", Url = "Second item", Type = EntityType.Text },
             };
 
             foreach (PodCastItem todoItem in podcastItems)

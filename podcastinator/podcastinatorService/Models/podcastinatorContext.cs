@@ -25,7 +25,7 @@ namespace podcastinatorService.Models
         {
         } 
 
-        public DbSet<PodCastItem> TodoItems { get; set; }
+        public DbSet<PodCastItem> PodCastItems { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -39,6 +39,7 @@ namespace podcastinatorService.Models
                 new AttributeToColumnAnnotationConvention<TableColumnAttribute, string>(
                     "ServiceTableColumn", (property, attributes) => attributes.Single().ColumnType.ToString()));
         }
+
     }
 
 }
