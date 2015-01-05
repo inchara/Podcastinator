@@ -5,3 +5,5 @@ Say you're really busy at work but you have this really interesting ted talk, or
 Watch the video here  for more explanation  - http://youtu.be/8Z92iDnIWzU
 
 Thanks for your interest!
+The Podcastinator Team
+(Abhik, Prarthana, Inchara, Arnab)
